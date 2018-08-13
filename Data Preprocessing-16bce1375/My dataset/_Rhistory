@@ -1,0 +1,4 @@
+setwd("~/Documents/16bce1375")
+library(readxl)
+AppleStore <- read_excel("AppleStore.csv")
+View(AppleStore)
